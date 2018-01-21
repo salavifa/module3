@@ -1,0 +1,48 @@
+h1{
+	text-align: left;
+	margin-bottom: 10px;
+	margin-top: 0;
+}
+p{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#header-c{
+	margin-left: 10px;
+}
+#dropdown{
+	background-color: grey;
+	text-align: center;
+	clear: both;
+}
+#heading{
+	font-size: 2em;
+}
+
+.jumbotron-title h1 {
+  text-align: center;
+}
+
+
+.navbar-header {
+  margin-bottom: 10px;
+}
+#header-nav {
+  text-align: center;
+}
+
+#main-content .jumbotron-title h1 {
+  text-align: center;
+}
+
+#beef-menu .jumbotron h1{
+  text-align: center;
+}
+
+#chiken-menu .jumbotron h1{
+  text-align: center;
+}
+
+#sushi-menu .jumbotron h1{
+  text-align: center;
+}
